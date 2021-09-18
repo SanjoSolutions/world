@@ -1,4 +1,4 @@
-import { Grid } from '../unnamed/Grid.js'
+import { Grid } from '../../unnamed/Grid.js'
 
 /**
  * A pixel grid.
